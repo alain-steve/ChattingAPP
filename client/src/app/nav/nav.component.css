@@ -1,3 +1,9 @@
+.navbar-brand {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-stretch:wider;
+}
 .dropdown-toggle, .dropdown-item {
     cursor: pointer;
 }
